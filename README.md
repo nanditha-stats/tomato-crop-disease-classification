@@ -3,7 +3,7 @@
 An end-to-end Machine Learning and statistical framework designed to classify 10+ distinct tomato plant diseases using precision agriculture datasets.
 
 ## 📊 Project Highlights
-* Dataset: PlantVillage Dataset (18,160 leaf profiles across 10 classes).
+* **Dataset**: PlantVillage Dataset (18,160 leaf profiles across 10 classes).
 * Peak Accuracy Achieved: 87.42%
 * Validation Rigor: Stratified 5-Fold Cross-Validation, Inverse-Frequency Class Weighting, and SMOTE resampling.
 
